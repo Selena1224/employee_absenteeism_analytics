@@ -1,5 +1,10 @@
 # Employee Absenteeism Analytics Dashboard
 
+
+**[Launch Live Dashboard](https://employee-absenteeism-analytics.onrender.com)**
+
+> ⏳ **Loading Note:** This dashboard may take about a minute to load after a period of inactivity while the server starts. Please keep the page open—it will load automatically.
+
 An interactive Python **Dash** application that analyzes historical workplace absence records and supports evidence-based workforce planning. It combines exploratory analytics, model validation, practical recommendations, downloadable reports, and a **hypothetical workforce coverage simulator**.
 
 > **Project status:** Working locally; prepared for GitHub and cloud deployment. A public deployment URL has not yet been established.
